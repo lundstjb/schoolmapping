@@ -1,0 +1,39 @@
+{
+    "type": "SchoolCollection",
+    "schools": [
+        {
+            "type": "Feature",
+            "properties": {
+                "SCHOOL": "Waynesboro High School",
+                "ADDRESS": "1200 Main Street",
+                "CITY": "Waynesboro",
+                "STATE": "VA",
+                "TELEPHONE": "(540) 946-4616"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.896171,
+                    38.06964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SCHOOL": "Berkeley Glenn Elementary",
+                "ADDRESS": "1020 Jefferson Ave",
+                "CITY": "Waynesboro",
+                "STATE": "VA",
+                "TELEPHONE": "(540) 946-4680"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.898811,
+                    38.05556
+                ]
+            }
+        }
+    ]
+}
